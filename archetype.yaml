@@ -1,0 +1,10 @@
+---
+description: "p6m Archetect Initilizer archetype"
+authors: ["Jimmie Fulton"]
+languages: []
+frameworks: []
+tags: []
+
+requires:
+  archetect: "2.0.0-ALPHA.10"
+

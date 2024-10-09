@@ -1,0 +1,12 @@
+---
+actions:
+  default:
+    group:
+      description: "Default Catalog"
+      entries:
+        - catalog:
+            description: Platform Dev
+            source: git@github.com:p6m-dev/p6m.catalog.git
+        - catalog:
+            description: Archetect
+            source: https://github.com/archetect/archetect.catalog.git
