@@ -8,7 +8,7 @@ local configuration for use at p6m-dev.
 To generate content from this Archetype, copy and execute the following command:
 
 ```sh
-archetect render git@github.com:p6m-dev/archetect-initilizer.archetype.git ~/.archetect/
+archetect render git@github.com:p6m-dev/archetect-initializer.archetype.git ~/.archetect/
 ```
 
 ## Archetype Layout
