@@ -5,7 +5,7 @@ actions:
       description: "Default Catalog"
       entries:
         - catalog:
-            description: Platform Dev
+            description: P6M
             source: git@github.com:p6m-dev/p6m.catalog.git
         - catalog:
             description: Archetect
