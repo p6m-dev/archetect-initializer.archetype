@@ -10,3 +10,5 @@ actions:
         - catalog:
             description: Archetect
             source: https://github.com/archetect/archetect.catalog.git
+answers:
+  artifactory-host: "{{ artifactory-host }}"

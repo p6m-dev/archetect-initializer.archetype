@@ -1,5 +1,9 @@
 let context = #{};
 
+context += prompt("Artifactory Host", "artifactory-host", #{
+    defaults_with: "p6m.jfrog.io",
+});
+
 render(Directory("contents"), context, #{
   if_exists: Overwrite,
 });
