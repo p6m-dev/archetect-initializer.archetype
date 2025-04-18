@@ -6,7 +6,7 @@ actions:
       entries:
         - catalog:
             description: P6M
-            source: git@github.com:p6m-dev/p6m.catalog.git
+            source: git@github.com:p6m-archetypes/p6m.catalog.git
         - catalog:
             description: Archetect
             source: https://github.com/archetect/archetect.catalog.git

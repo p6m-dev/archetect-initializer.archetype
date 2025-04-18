@@ -1,14 +1,14 @@
-# p6m-dev Archetect Initializer archetype
+# p6m-archetypes Archetect Initializer archetype
 
 This is an [Archetect](https://archetect.github.io/) archetype for initilizing Archetect's
-local configuration for use at p6m-dev.
+local configuration for use at p6m-archetypes.
 
 ## Rendering
 
 To generate content from this Archetype, copy and execute the following command:
 
 ```sh
-archetect render git@github.com:p6m-dev/archetect-initializer.archetype.git ~/.archetect/
+archetect render git@github.com:p6m-archetypes/archetect-initializer.archetype.git ~/.archetect/
 ```
 
 ## Archetype Layout
